@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=TinyWiFi.pw&style=for-the-badge&url=https%3A%2F%2FTinyWiFi.pw)](http://www.tinywifi.pw)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tinywifi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=tinywifi)
 
-## I'm a trash developer who skid codes and I don't even know how to skid properly.
+## I'm a trash developer kinda don't know stuff.
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to  play game and read books.
