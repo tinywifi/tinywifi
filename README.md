@@ -1,1 +1,1 @@
-![Metrics](https://raw.githubusercontent.com/Purlified/tinywifi/main/github-metrics.svg)
+![MetricsA](https://raw.githubusercontent.com/Purlified/tinywifi/main/github-metrics.svg)
