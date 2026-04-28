@@ -1,7 +1,7 @@
 # tinywifi
 
 <p align="center">
-  <img src="https://tinywifi.cc/profile-card" alt="tinywifi profile banner" />
+  <img src="https://tinywifi.cc/profile-card.png" alt="tinywifi profile banner" />
 </p>
 
 <p align="center">
