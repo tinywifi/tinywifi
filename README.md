@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://tinywifi.cc/profile-card.png" alt="tinywifi profile banner" />
-</p>
-
-<p align="center">
   security research, computer vision, and small tools that feel sharper than they should.
 </p>
 <p align="center">
